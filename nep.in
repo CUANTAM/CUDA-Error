@@ -1,0 +1,13 @@
+version     3
+type        2 O Zr
+cutoff      5 3        # default
+n_max       12 6        # default
+basis_size  12 12      # default
+l_max       4       # default
+neuron      50         # default 30
+lambda_1    0.05        # default 0.05
+lambda_2    0.05        # default 0.05
+population  50         # default
+batch       1000       # default
+generation  200000     # default
+
